@@ -3,6 +3,7 @@ FluiddPI can be built from Debian, Ubuntu, Raspbian, OctoPi, or even FluiddPI. B
 
 sudo apt-get install gawk util-linux qemu-user-static git p7zip-full python3
 
+
 git clone https://github.com/ShohninDmitriy/CustomPiOS.git
 git clone https://github.com/ShohninDmitriy/FluiddPI.git
 cd FluiddPI/src/image
